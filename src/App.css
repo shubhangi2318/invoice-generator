@@ -90,3 +90,7 @@ h1{
   }
 }
 
+@media only screen and (max-width: 900px) {
+  form{
+    width: 80%;}
+}
